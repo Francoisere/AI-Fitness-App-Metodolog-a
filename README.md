@@ -1,1 +1,1 @@
-Se tomo como base el modelo de MediaPipe, estos son los archivos que modificamos para adaptarlos en nuestro caso, por ejemplo en OverlayView existen diferentes funciones que calculan los rangos optimos para cada ejercicio.
+Se tomo como base el modelo de MediaPipe (https://github.com/google-ai-edge/mediapipe), estos son los archivos que modificamos para adaptarlos en nuestro caso, por ejemplo en OverlayView existen diferentes funciones que calculan los rangos optimos para cada ejercicio.
